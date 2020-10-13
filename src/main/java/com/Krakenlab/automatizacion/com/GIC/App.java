@@ -1,4 +1,4 @@
-package com.ANLA.automatizacion.com.GIC;
+package com.Krakenlab.automatizacion.com.GIC;
 
 /**
  * Hello world!
