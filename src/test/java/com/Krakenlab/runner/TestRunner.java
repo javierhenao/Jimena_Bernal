@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 		glue = {"com.Krakenlab.gluecode", "com.Krakenlab.hooks"},
 		plugin = {"json:reporte_node/report/cucumber-TestCompleto-report.json"}
 		
-		//snippets = {SnippetType.CAMELCASE}
+		//snippets = {SnippetType.CAMELCASE} 
 		//monochrome = true
 		)
 
