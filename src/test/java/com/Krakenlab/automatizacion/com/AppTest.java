@@ -1,4 +1,4 @@
-package com.Krakenlab.automatizacion.com.GIC;
+package com.Krakenlab.automatizacion.com;
 
 import static org.junit.Assert.assertTrue;
 
